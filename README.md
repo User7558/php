@@ -1,2 +1,2 @@
-# php
+# PHP
  Exercícios de PHP :) 
